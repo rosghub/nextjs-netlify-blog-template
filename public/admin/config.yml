@@ -109,7 +109,7 @@ collections:
         widget: "datetime"
         format: "YYYY-MM-DD"
         dateFormat: "YYYY-MM-DD"
-        timeFormat: false
+        timeFormat: "HH:mm"
       - label: Author
         name: "author"
         widget: relation
